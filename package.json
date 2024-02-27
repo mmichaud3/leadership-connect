@@ -1,0 +1,21 @@
+{
+    "name": "leadership-connect",
+    "displayName": "Leadership Connect",
+    "description": "A theme based on the colors used to design the Leadership Connect platform.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Leadership Connect",
+                "uiTheme": "vs",
+                "path": "./themes/Leadership Connect-color-theme.json"
+            }
+        ]
+    }
+}
