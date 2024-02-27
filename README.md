@@ -2,7 +2,6 @@
 
 ![logo](https://github.com/mmichaud3/leadership-connect/assets/51766819/7da3de5a-66bc-4a14-8046-4605e66269f1)
 
-
 ## About
 
 This theme is inspired by the color scheme used to design the Leadership Connect platform.
@@ -11,4 +10,3 @@ This theme is inspired by the color scheme used to design the Leadership Connect
 ## Preview
 
 ![LC ](https://github.com/mmichaud3/leadership-connect/assets/51766819/166dba58-f321-49f8-8d40-f7fddf2b3363)
-
