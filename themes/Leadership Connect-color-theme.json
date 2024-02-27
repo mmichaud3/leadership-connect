@@ -43,9 +43,10 @@
     "list.hoverBackground": "#00b4df",
 
     "editorGroup.border": "#00b4df",
-    "tab.activeForeground": "#00b4df",
+    "tab.activeForeground": "#03c9fa",
     "tab.activeBackground": "#192633e0",
     "tab.inactiveBackground": "#192633",
+    "tab.inactiveForeground": "#03c9fa",
 
     "titleBar.activeForeground": "#ffffff",
     "titleBar.activeBackground": "#00468b",
