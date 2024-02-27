@@ -1,6 +1,8 @@
 {
   "name": "leadership-connect",
   "displayName": "Leadership Connect",
+  "publisher": "MichaelMichaud",
+  "license": "MIT",
   "description": "A theme based on the colors used to design the Leadership Connect platform.",
   "version": "0.0.1",
   "homepage": "https://github.com/mmichaud3/leadership-connect#readme",
@@ -8,6 +10,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mmichaud3/leadership-connect"
+  },
+  "bugs": {
+    "email": "mvmichaud3@gmail.com"
   },
   "engines": {
     "vscode": "^1.46.0"
