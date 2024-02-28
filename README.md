@@ -9,4 +9,4 @@ This theme is inspired by the color scheme used to design the Leadership Connect
 
 ## Preview
 
-![LC ]([https://github.com/mmichaud3/leadership-connect/assets/51766819/166dba58-f321-49f8-8d40-f7fddf2b336](https://github.com/mmichaud3/leadership-connect/assets/51766819/050cb5d0-2d9f-4eed-8914-9fa223e9000e)https://github.com/mmichaud3/leadership-connect/assets/51766819/050cb5d0-2d9f-4eed-8914-9fa223e9000e3)
+![LC ](https://github.com/mmichaud3/leadership-connect/assets/51766819/050cb5d0-2d9f-4eed-8914-9fa223e9000e)
