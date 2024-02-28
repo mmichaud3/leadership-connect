@@ -24,14 +24,10 @@
     "statusBar.background": "#00b4df",
     "statusBar.border": "#00b4df",
 
-    // "focusBorder": "#ff0000",
-    // "selection.background": "#ff0000",
-
     "button.background": "#00468b",
     "sideBar.background": "#192633",
     "sideBar.foreground": "#ffffff",
 
-    // "sideBar.border": "#00b4df",
     "sideBarTitle.foreground": "#00b4df",
     "sideBarSectionHeader.foreground": "#00468b",
     "dropdown.background": "#00b4df4b",
@@ -116,14 +112,13 @@
       "name": "Language Constants",
       "scope": ["constant.language", "support.constant", "variable.language"],
       "settings": {
-        "foreground": "#26ab59"
+        "foreground": "#1d8243"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "support.variable"],
       "settings": {
-        // "foreground": "#000a1d"
         "foreground": "#1d7a9a"
       }
     },
@@ -132,7 +127,7 @@
       "scope": ["entity.name.function", "support.function"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#00b4df"
+        "foreground": "#007a99"
       }
     },
     {
@@ -165,7 +160,7 @@
       "name": "Numbers, Characters",
       "scope": ["constant.numeric", "constant.character", "constant"],
       "settings": {
-        "foreground": "#956a81"
+        "foreground": "#8f657B"
       }
     },
     {
@@ -186,7 +181,7 @@
       "name": "Strings: Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#137f94"
+        "foreground": "#137a8f"
       }
     },
     {
@@ -249,7 +244,7 @@
       "name": "HTML: Entities",
       "scope": ["constant.character.entity", "punctuation.definition.entity"],
       "settings": {
-        "foreground": "#597a88"
+        "foreground": "#557482"
       }
     },
     {
@@ -328,7 +323,7 @@
       "name": "Markup: Link",
       "scope": "meta.link",
       "settings": {
-        "foreground": "#137f94"
+        "foreground": "#137a8f"
       }
     },
     {
@@ -399,7 +394,7 @@
       "scope": "markup.inline.raw",
       "settings": {
         "fontStyle": "",
-        "foreground": "#4e7e53"
+        "foreground": "#4a784f"
       }
     },
     {
